@@ -1,4 +1,4 @@
-# vue-users-app
+# users-app
 
 ## Project setup
 ```
