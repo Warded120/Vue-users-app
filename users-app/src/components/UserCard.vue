@@ -33,7 +33,7 @@
 
 <script lang="ts">
 import { defineComponent, reactive, ref } from "vue";
-import { User } from "@/User";
+import { User } from "@/models/User";
 
 export default defineComponent({
   name: "UserCard",
